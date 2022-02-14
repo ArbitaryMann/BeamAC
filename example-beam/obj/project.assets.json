@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Love2dCS/11.0.50": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.2/LoveSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.2/LoveSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Love2dCS/11.0.50": {
+      "sha512": "ahPZ1eV7GTe5W+DuCkngyu7n5+kX8oloM5ILiI4G9re85Ld7dKyLFYFIFkjyjOSCwJDSPlAqys0QblrO4x2GgA==",
+      "type": "package",
+      "path": "love2dcs/11.0.50",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard1.2/LoveSharp.dll",
+        "lib/netstandard1.2/LoveSharp.xml",
+        "love2dcs.11.0.50.nupkg.sha512",
+        "love2dcs.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Love2dCS >= 11.0.50"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\aliya\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\aliya\\source\\repos\\anticheat test\\anticheat test\\anticheat test.csproj",
+      "projectName": "anticheat test",
+      "projectPath": "C:\\Users\\aliya\\source\\repos\\anticheat test\\anticheat test\\anticheat test.csproj",
+      "packagesPath": "C:\\Users\\aliya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aliya\\source\\repos\\anticheat test\\anticheat test\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Love2dCS": {
+            "target": "Package",
+            "version": "[11.0.50, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJP37lF0a30gUV+eS8gFev13UXAY3MBGWaS7X+PjtDGsFjvXypJWwW0EjH1A41EXqs4Hga5hOAr3qd9PHygiiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aliya\\source\\repos\\anticheat test\\anticheat test\\anticheat test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aliya\\.nuget\\packages\\love2dcs\\11.0.50\\love2dcs.11.0.50.nupkg.sha512"
+  ],
+  "logs": []
+}

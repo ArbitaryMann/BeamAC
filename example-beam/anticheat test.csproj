@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>anticheat_test</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Love2dCS" Version="11.0.50" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BeamAnticheat">
+      <HintPath>..\..\BeamAnticheat\BeamAnticheat\bin\Debug\net6.0\BeamAnticheat.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

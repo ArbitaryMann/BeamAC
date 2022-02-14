@@ -1,0 +1,19 @@
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\anticheat test.exe
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\anticheat test.deps.json
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\anticheat test.runtimeconfig.json
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\anticheat test.dll
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\ref\anticheat test.dll
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\anticheat test.pdb
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.AssemblyInfoInputs.cache
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.AssemblyInfo.cs
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.csproj.CoreCompileInputs.cache
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.dll
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\ref\anticheat test.dll
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.pdb
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.genruntimeconfig.cache
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\BeamAnticheat.dll
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\BeamAnticheat.pdb
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.csproj.AssemblyReference.cache
+C:\Users\aliya\source\repos\anticheat test\anticheat test\obj\Debug\net6.0\anticheat test.csproj.CopyComplete
+C:\Users\aliya\source\repos\anticheat test\anticheat test\bin\Debug\net6.0\LoveSharp.dll
