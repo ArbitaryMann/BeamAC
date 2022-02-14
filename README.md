@@ -6,3 +6,11 @@ Unity3D -> “❌“ / Soon!
 .NET Framework -> “✔️” 
 <br />
 .NET Core -> “✔️” 
+<hr >
+Protection Methods
+<br />
+Anti-Debugger -> “✔️” 
+<br />
+Anti-Speedhack -> “✔️” 
+<br />
+Anti-HTTPSniffer -> “❌“ 🕐
